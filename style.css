@@ -1,0 +1,252 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+#body{
+  font-family: sans-serif;
+}
+#headnavbar{
+  background-color: lightgrey;
+border: .5px solid white;
+border-radius: 15px;
+margin-bottom: 10px;
+}
+#menuicon{
+  border-radius: 15px;
+  height:58px;
+}
+.navlinks{
+display: inline-block;
+text-decoration: none;
+vertical-align: top;
+font-size:25px;
+padding:15px;
+color:black;
+  border-right: .5px solid white;
+  height:33px;
+font-weight: bold;
+margin-top: 5px;
+}
+
+#srchbarbg{
+  display: inline-block;
+  margin-left: 400px;
+  vertical-align: top;
+margin-right: 15px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+#srchinbar{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  padding: 12px;
+  color: grey;
+  display: inline-block;
+
+}
+#gobutton{
+  display: inline-block;
+background-color: #3067bf;
+border-top-right-radius: 15px;
+border-bottom-right-radius: 15px;
+font-size: 29px;
+color:white;
+vertical-align: top;
+}
+#mainimg{
+width: 1267px;
+
+}
+#navbarundermainbg{
+background-color: #403e37;
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+width:1267px;
+margin-top: -5px;
+
+}
+.diagonal{
+  display: inline-block;
+  color:grey;
+  font-size: 35px;
+  margin-bottom: 6px;
+  vertical-align: top;
+}
+.navlinks2{
+display: inline-block;
+text-decoration: none;
+font-size: 20px;
+padding:8px;
+margin-bottom: 5px;
+}
+#discbrowsebox{
+  border:.5px solid lightgrey;
+  padding:20px;
+  margin-top: 15px;
+
+}
+#discover{
+  font-size: 40px;
+  color:lightgrey;
+  display: inline-block;
+}
+#bar9{
+  margin-left: 60px;
+  display: inline-block;
+  font-size: 50px;
+  color:lightgrey;
+  font-weight: 100;
+}
+#browse{
+  display: inline-block;
+  background-color: #3067bf;
+  color:white;
+  text-decoration: none;
+  margin: 20px 90px;
+  padding:15px 25px;
+  border-radius: 15px;
+  font-size: 25px;
+}
+#browsetext{
+display: inline-block;
+}
+#dubarrows{
+  display: inline-block;
+  margin-left: 45px;
+}
+#previewboxes{
+display: inline-block;
+background-color: #e1e3dd;
+width:1267px;
+border: .5px solid grey;
+}
+#videopv{
+ width:300px;
+display: inline-block;
+padding: 18px;
+background-color: #e1e3dd;
+margin-top: 20px;
+border-right: .5px solid lightgrey;
+}
+.pvtopimg{
+
+}
+#maintopvideopv{
+  display: inline-block;
+  font-size: 20px;
+}
+.maintoptomid{
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 30px;
+}
+#maintextvideopv{
+color:grey;
+margin-bottom: 5px;
+}
+#maintexttourof10{
+color:grey;
+margin-bottom: 10px;
+}
+#maintextfreetrial{
+color:grey;
+margin-bottom: 3px;
+}
+#maintextrdytobuy{
+color:grey;
+margin-bottom: 19px;
+}
+
+.imginmid{
+  width: 200px;
+}
+.blueboxunderpv{
+ background: linear-gradient(blue,skyblue,blue);
+ border-radius: 8px;
+ color:white;
+ text-align:center;
+ padding:3px 35px;
+}
+#tourof10{
+  display: inline-block;
+  width:300px;
+  vertical-align: top;
+  background-color: #e1e3dd;
+margin-top: 20px;
+border-right: .5px solid lightgrey;
+}
+#freetrial{
+  display: inline-block;
+  width:300px;
+  vertical-align: top;
+  background-color: #e1e3dd;
+  margin-top: 20px;
+  border-right: .5px solid lightgrey;
+}
+#rdytobuy{
+  display: inline-block;
+  width:300px;
+  vertical-align: top;
+  background-color: #e1e3dd;
+  margin-top: 20px;
+}
+#barbelowpv{
+ background-color: #e1e3dd;
+ height: 100px;
+ width: 1267px;
+ border: .5px solid grey;
+}
+#bottomsectionabout{
+ display: inline-block;
+ width:200px;
+ margin-top: 30px;
+}
+#bottomsectionplatform{
+ display: inline-block;
+ width:200px;
+ vertical-align: top;
+ margin-top: 30px;
+}
+#bottomsectionstore{
+ display: inline-block;
+ width:200px;
+ margin-top: 30px;
+ vertical-align: top;
+}
+#bottomsectionsupport{
+ display: inline-block;
+ width:200px;
+ vertical-align: top;
+ margin-top: 30px;
+}
+#bottomsectioncommunity{
+ display: inline-block;
+ width:200px;
+ vertical-align: top;
+ margin-top: 30px;
+}
+#bottomsectionoaktree{
+ display: inline-block;
+ width:200px;
+ vertical-align: top;
+ margin-top: 30px;
+}
+.topsecdebott{
+margin-bottom: 10px;
+}
+.barinbottsec{
+margin-bottom: 10px;
+}
+.bottsecmainwords{
+ text-decoration: none;
+ color:grey;
+ margin-bottom: 10px;
+ display: block;
+}
+
+#bottomestbanner{
+
+}
+#bottomestsection{
+margin-top: 15px;
+}
